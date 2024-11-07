@@ -1,4 +1,4 @@
-# _Connaissance générale_ #
+# Données #
 
 URI: localhost:XXXX/
 Endpoint: .../(Le reste du chemin)
@@ -7,7 +7,7 @@ Exemple:
 localhost:4208/tests/1
 Endpoint = /tests/1
 
----
+# Routes #
 
 Afficher la liste de spécialistes ->
 GET
