@@ -1,3 +1,7 @@
+# Description #
+
+Ce projet est une API REST simple pour la gestion des spécialistes. Elle permet d’afficher, d’ajouter, de mettre à jour et de supprimer des spécialistes à l’aide des méthodes HTTP (GET, POST, PUT, DELETE). Idéal pour explorer les bases des APIs REST et la manipulation des données JSON.
+
 # Données #
 
 URI: localhost:XXXX/
